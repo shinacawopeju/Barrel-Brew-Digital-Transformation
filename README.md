@@ -198,4 +198,6 @@ Proposed implementation of an **Integrated Brewery Management Platform** to:
 * Analytical thinking and problem framing
 * Bridging business and technical teams
 
+![Document Preview](https://docs.google.com/document/d/1maxL_qPyI8i5VpAnL1KuGHxe3_d1kkhN/export?format=pdf)
+
 ---
